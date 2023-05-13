@@ -1,1 +1,3 @@
 # Fake-News-Classifier
+
+A fake news classifier is a machine learning model designed to distinguish between real and fake news articles. It uses various natural language processing techniques to analyze the content of an article and identify patterns that are characteristic of either real or fake news. The classifier is trained on a large dataset of labeled news articles, with each article labeled as either real or fake, and uses this data to learn how to distinguish between the two. Once trained, the model can be used to classify new articles as either real or fake, helping to combat the spread of misinformation and disinformation. The output of the classifier  is a binary classification (real or fake)
